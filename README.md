@@ -1,5 +1,5 @@
 
-[![Banner](https://github.com/myygunduz/My-Blender-Works/blob/main/assets/specialedition/python-eğitimi-video.gif)](https://github.com/myygunduz)
+<a href ="https://github.com/myygunduz"><img src ="https://github.com/myygunduz/My-Blender-Works/blob/main/assets/specialedition/python-eğitimi-video.gif" witdh = 1500/></a> 
 
 <hr>
 
